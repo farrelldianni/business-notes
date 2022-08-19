@@ -1,0 +1,23 @@
+{
+  "name": "business-notes",
+  "version": "1.0.0",
+  "description": "<h2>User Story</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrelldianni/business-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrelldianni/business-notes/issues"
+  },
+  "homepage": "https://github.com/farrelldianni/business-notes#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
